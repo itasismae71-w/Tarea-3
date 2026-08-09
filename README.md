@@ -36,4 +36,4 @@ Configurar un entorno de desarrollo profesional utilizando Git y GitHub, aplican
 - **v1.1**: Implementación del archivo \.gitignore\ y desarrollo de la documentación técnica en \README.md\.
 
 ## Autor
-Ismael Andrew Itás Flores
+Ismael Andrew Itás Flores 3b
